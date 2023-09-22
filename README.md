@@ -18,6 +18,8 @@ This project provides a simple and customizable solution for researchers and hob
 
 1. **Components:**
    - Arduino (The provided code is generic and should work with most variants)
+     [Metro Mini fits in the bottom plate](https://www.adafruit.com/product/2590)
+
    - 4x Arcade Buttons
    - Jumper Wires
 
